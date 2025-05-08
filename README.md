@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Andy Suryawirawan 👋
 
-<!--
-**putuandy/putuandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer based in Bali, Indonesia 🇮🇩, with a strong foundation in JavaScript and TypeScript. I specialize in building scalable web applications and have a keen interest in modern web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, Docker, Vercel, Netlify
+
+## 🛠️ Projects
+
+Here are some of my notable projects:
+
+### [ubah-gambar](https://github.com/putuandy/ubah-gambar)
+A web application that allows users to convert and resize images effortlessly. Built with TypeScript and React, it provides a user-friendly interface for image manipulation.
+
+### [url-shortener](https://github.com/putuandy/url-shortener)
+A simple and efficient URL shortening service developed using Node.js and Express. It features analytics to track link usage and is deployed on Vercel for seamless access.
+
+Feel free to explore these repositories to get a better understanding of my work.
+
+## 📫 Contact Me
+
+- **Email:** putuandy@artyupit.id
+- **LinkedIn:** [linkedin.com/in/putuandy](https://www.linkedin.com/in/putuandy)
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Thanks for visiting my profile!
